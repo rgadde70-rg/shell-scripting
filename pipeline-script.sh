@@ -15,3 +15,4 @@ echo "Listing free memory:"
 free -mh
 echo "list of users logged in:"
 who
+ls -alrth
